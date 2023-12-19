@@ -4,8 +4,9 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
     <PackageId>MoneyExtensions-balta.io</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>André Baltieri</Authors>
     <Company>balta.io</Company>
